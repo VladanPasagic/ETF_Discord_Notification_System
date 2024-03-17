@@ -1,0 +1,30 @@
+{
+  "webhook_url": "https://discord.com/api/webhooks/1214618696539054172/Aq_sgN1vUgXHIn1jQ4A4gIbSplGN2chiblGbAgK-DgIvXr5LgJZId7F7H4Ogi6EcmDJW",
+  "year_data": [
+    {
+      "year": 1,
+      "notified": true,
+      //"thread_id": 1214619232952913992,
+      //"role_id": 1214619649363283978
+    },
+    {
+      "year": 2,
+      "notified": true,
+      //"thread_id": 1214620574169571409,
+      //"role_id": 1214619820931416134
+    },
+    {
+      "year": 3,
+      "notified": true,
+      //"thread_id": 1214620690204987502,
+      //"role_id": 1214620004218175499
+    },
+    {
+      "year": 4,
+      "notified": true,
+      //"thread_id": 1214620839526268968,
+      //"role_id": 1214620443475185694
+    }
+  ],
+  "timeout": "1"
+}
